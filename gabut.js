@@ -4,7 +4,9 @@ function tebakumur(text) {
         console.log('benar')
     }else{
         console.log('salah')
+   }
 }
+
 function percobaan() {
    var mama = tebakumur('100') // benar
    console.log(mama)
