@@ -6,5 +6,8 @@ function tebakumur(text) {
         console.log('salah')
 }
 function percobaan() {
-   tebakumur('100') // benar
+   var mama = tebakumur('100') // benar
+   console.log(mama)
 }
+
+percobaan()
